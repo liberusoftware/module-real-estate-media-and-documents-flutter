@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-media-and-documents-flutter",
+  "capabilityKey": "liberusoftware/real-estate-media-and-documents",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_media_and_documents_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/media-and-documents.md",
+  "presentationPlan": "projects/real-estate/flutter/media-and-documents.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
